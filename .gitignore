@@ -1,6 +1,7 @@
 com.sh
 
 [Bb]uild/
+*.dSYM/
 # Prerequisites
 *.d
 
